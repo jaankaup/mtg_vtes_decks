@@ -1,1 +1,1 @@
-# mtg_vtes_decks
+# The best mtg and vtes decks, ever!
