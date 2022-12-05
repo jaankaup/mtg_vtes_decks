@@ -1,0 +1,32 @@
+<deck version="0.8">
+	<meta>
+		<game>vtes</game>
+	</meta>
+	<superzone name="Crypt">
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="elimelechthetwicedamned,cardbackcrypt">Elimelech the Twice-Damned</name><set>SoCM</set></card>
+		<card><name id="littlewillie,cardbackcrypt">Little Willie</name><set>ThirdM</set></card>
+		<card><name id="marielstjohn,cardbackcrypt">Mariel St. John</name><set>ThirdM</set></card>
+		<card><name id="una,cardbackcrypt">Una</name><set>GehennaM</set></card>
+		<card><name id="bela,cardbackcrypt">Bela</name><set>KoTM</set></card>
+		<card><name id="andy,cardbackcrypt">Andy</name><set>TRM</set></card>
+		<card><name id="donaldcargill,cardbackcrypt">Donald Cargill</name><set>KoTM</set></card>
+		<card><name id="franciscus,cardbackcrypt">Franciscus</name><set>DSM</set></card>
+		<card><name id="ingridrusso,cardbackcrypt">Ingrid Russo</name><set>SabbatM</set></card>
+		<card><name id="dylanadv,cardbackcrypt">Dylan (ADV)</name><set>KMWM</set></card>
+		<card><name id="rosemarie,cardbackcrypt">Rosemarie</name><set>LoBM</set></card>
+		<card><name id="calvincleaver,cardbackcrypt">Calvin Cleaver</name><set>TRM</set></card>
+		<card><name id="calvincleaver,cardbackcrypt">Calvin Cleaver</name><set>TRM</set></card>
+		<card><name id="brocksterling,cardbackcrypt">Brock Sterling</name><set>V5M</set></card>
+		<card><name id="maldavisadv,cardbackcrypt">Maldavis (ADV)</name><set>AUM</set></card>
+		<card><name id="cj,cardbackcrypt">C.J.</name><set>TUM</set></card>
+		<card><name id="gunnar,cardbackcrypt">Gunnar</name><set>KoTM</set></card>
+		<card><name id="juancali,cardbackcrypt">Juan Cali</name><set>SabbatM</set></card>
+		<card><name id="ulrikerothbart,cardbackcrypt">Ulrike Rothbart</name><set>ThirdM</set></card>
+		<card><name id="rickivandemsi,cardbackcrypt">Ricki Van Demsi</name><set>JyhadM</set></card>
+	</superzone>
+</deck>

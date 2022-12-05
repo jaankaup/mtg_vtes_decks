@@ -1,0 +1,11 @@
+<deck version="0.8">
+	<meta>
+		<game>vtes</game>
+	</meta>
+	<superzone name="Library">
+		<card><name id="frenzy">Frenzy</name><set>Jyhad</set></card>
+		<card><name id="frenzy">Frenzy</name><set>Jyhad</set></card>
+		<card><name id="frenzy">Frenzy</name><set>Jyhad</set></card>
+		<card><name id="frenzy">Frenzy</name><set>Jyhad</set></card>
+	</superzone>
+</deck>
