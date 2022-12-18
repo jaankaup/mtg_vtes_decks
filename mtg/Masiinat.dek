@@ -67,8 +67,6 @@
 		<card><name id="4ed/208">Lightning Bolt</name><set>4e</set></card>
 		<card><name id="4ed/218">Red Elemental Blast</name><set>4e</set></card>
 		<card><name id="4ed/218">Red Elemental Blast</name><set>4e</set></card>
-		<card><name id="4ed/218">Red Elemental Blast</name><set>4e</set></card>
-		<card><name id="4ed/218">Red Elemental Blast</name><set>4e</set></card>
 		<card><name id="4ed/164">Terror</name><set>4e</set></card>
 		<card><name id="4ed/164">Terror</name><set>4e</set></card>
 		<card><name id="4ed/227">Tunnel</name><set>4e</set></card>
@@ -87,6 +85,12 @@
 		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
 		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
 		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
+		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
+		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
+		<card><name id="tmp/343">Mountain</name><set>tempest</set></card>
+		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>
+		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>
+		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>
 		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>
 		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>
 		<card><name id="tmp/339">Swamp</name><set>tempest</set></card>

@@ -3,7 +3,6 @@
 		<game>magic</game>
 	</meta>
 	<superzone name="Deck">
-		<card><name id="fem/81">Aeolipile</name><set>fe</set></card>
 		<card><name id="4ed/298">Black Mana Battery</name><set>4e</set></card>
 		<card><name id="4ed/319">Fellwar Stone</name><set>4e</set></card>
 		<card><name id="4ed/319">Fellwar Stone</name><set>4e</set></card>
@@ -19,11 +18,14 @@
 		<card><name id="4ed/234">Birds of Paradise</name><set>4e</set></card>
 		<card><name id="mir/209">Canopy Dragon</name><set>mirage</set></card>
 		<card><name id="mir/209">Canopy Dragon</name><set>mirage</set></card>
+		<card><name id="mir/209">Canopy Dragon</name><set>mirage</set></card>
 		<card><name id="mir/112">Catacomb Dragon</name><set>mirage</set></card>
 		<card><name id="mir/112">Catacomb Dragon</name><set>mirage</set></card>
+		<card><name id="mir/112">Catacomb Dragon</name><set>mirage</set></card>
 		<card><name id="4ed/186">Dragon Whelp</name><set>4e</set></card>
 		<card><name id="4ed/186">Dragon Whelp</name><set>4e</set></card>
 		<card><name id="4ed/186">Dragon Whelp</name><set>4e</set></card>
+		<card><name id="4ed/220">Shivan Dragon</name><set>4e</set></card>
 		<card><name id="4ed/220">Shivan Dragon</name><set>4e</set></card>
 		<card><name id="4ed/220">Shivan Dragon</name><set>4e</set></card>
 		<card><name id="leg/269">Vaevictis Asmadi</name><set>legends</set></card>
@@ -31,6 +33,7 @@
 		<card><name id="vis/140">Viashivan Dragon</name><set>visions</set></card>
 		<card><name id="mir/201">Volcanic Dragon</name><set>mirage</set></card>
 		<card><name id="mir/201">Volcanic Dragon</name><set>mirage</set></card>
+		<card><name id="mir/201">Volcanic Dragon</name><set>mirage</set></card>
 		<card><name id="ice/347">Wall of Shields</name><set>ia</set></card>
 		<card><name id="ice/347">Wall of Shields</name><set>ia</set></card>
 		<card><name id="ice/347">Wall of Shields</name><set>ia</set></card>
@@ -40,17 +43,12 @@
 		<card><name id="4ed/211">Mana Flare</name><set>4e</set></card>
 		<card><name id="4ed/211">Mana Flare</name><set>4e</set></card>
 		<card><name id="4ed/211">Mana Flare</name><set>4e</set></card>
-		<card><name id="2ed/186">Berserk</name><set>unlimited</set></card>
-		<card><name id="2ed/186">Berserk</name><set>unlimited</set></card>
 		<card><name id="4ed/239">Crumble</name><set>4e</set></card>
 		<card><name id="4ed/239">Crumble</name><set>4e</set></card>
 		<card><name id="dvd/50">Dark Banishing</name><set>advd</set></card>
 		<card><name id="dvd/50">Dark Banishing</name><set>advd</set></card>
 		<card><name id="4ed/129">Dark Ritual</name><set>4e</set></card>
 		<card><name id="4ed/129">Dark Ritual</name><set>4e</set></card>
-		<card><name id="ice/234">Fanatical Fever</name><set>ia</set></card>
-		<card><name id="4ed/244">Fog</name><set>4e</set></card>
-		<card><name id="4ed/244">Fog</name><set>4e</set></card>
 		<card><name id="4ed/248">Giant Growth</name><set>4e</set></card>
 		<card><name id="4ed/248">Giant Growth</name><set>4e</set></card>
 		<card><name id="4ed/248">Giant Growth</name><set>4e</set></card>
@@ -63,7 +61,6 @@
 		<card><name id="4ed/185">Disintegrate</name><set>4e</set></card>
 		<card><name id="ema/177">Natural Order</name><set>ema</set></card>
 		<card><name id="ema/177">Natural Order</name><set>ema</set></card>
-		<card><name id="4ed/172">Word of Binding</name><set>4e</set></card>
 		<card><name id="4ed/272">Stream of Life</name><set>4e</set></card>
 		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
 		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
@@ -74,7 +71,6 @@
 		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
 		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
 		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
-		<card><name id="5ed/438">Swamp</name><set>5e</set></card>
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
@@ -84,8 +80,6 @@
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
 		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
-		<card><name id="4ed/373">Mountain</name><set>4e</set></card>
-		<card><name id="4ed/376">Forest</name><set>4e</set></card>
 		<card><name id="4ed/376">Forest</name><set>4e</set></card>
 		<card><name id="4ed/376">Forest</name><set>4e</set></card>
 		<card><name id="4ed/376">Forest</name><set>4e</set></card>
@@ -98,5 +92,15 @@
 		<card><name id="leb/278">Badlands</name><set>beta</set></card>
 		<card><name id="leb/279">Bayou</name><set>beta</set></card>
 		<card><name id="leb/283">Taiga</name><set>beta</set></card>
+		<card><name id="4ed/118">Animate Dead</name><set>4e</set></card>
+		<card><name id="4ed/118">Animate Dead</name><set>4e</set></card>
+		<card><name id="4ed/118">Animate Dead</name><set>4e</set></card>
+		<card><name id="4ed/118">Animate Dead</name><set>4e</set></card>
+		<card><name id="4ed/279">Untamed Wilds</name><set>4e</set></card>
+		<card><name id="4ed/279">Untamed Wilds</name><set>4e</set></card>
+		<card><name id="4ed/279">Untamed Wilds</name><set>4e</set></card>
+		<card><name id="4ed/279">Untamed Wilds</name><set>4e</set></card>
+		<card><name id="4ed/279">Untamed Wilds</name><set>4e</set></card>
+		<card><name id="4ed/216">Power Surge</name><set>4e</set></card>
 	</superzone>
 </deck>

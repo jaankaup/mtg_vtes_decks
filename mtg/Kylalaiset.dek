@@ -4,8 +4,6 @@
 	</meta>
 	<superzone name="Deck">
 		<card><name id="4ed/294">Ankh of Mishra</name><set>4e</set></card>
-		<card><name id="4ed/324">Helm of Chatzuk</name><set>4e</set></card>
-		<card><name id="4ed/324">Helm of Chatzuk</name><set>4e</set></card>
 		<card><name id="4ed/327">Ivory Cup</name><set>4e</set></card>
 		<card><name id="4ed/331">Jayemdae Tome</name><set>4e</set></card>
 		<card><name id="arn/1">Abu Ja&apos;far</name><set>an</set></card>
@@ -44,6 +42,9 @@
 		<card><name id="4ed/30">Holy Strength</name><set>4e</set></card>
 		<card><name id="4ed/32">Karma</name><set>4e</set></card>
 		<card><name id="4ed/34">Land Tax</name><set>4e</set></card>
+		<card><name id="4ed/34">Land Tax</name><set>4e</set></card>
+		<card><name id="4ed/34">Land Tax</name><set>4e</set></card>
+		<card><name id="4ed/34">Land Tax</name><set>4e</set></card>
 		<card><name id="4ed/51">Spirit Link</name><set>4e</set></card>
 		<card><name id="4ed/21">Death Ward</name><set>4e</set></card>
 		<card><name id="4ed/21">Death Ward</name><set>4e</set></card>
@@ -67,6 +68,14 @@
 		<card><name id="ice/54">Swords to Plowshares</name><set>ia</set></card>
 		<card><name id="all/139">Kjeldoran Outpost</name><set>alliances</set></card>
 		<card><name id="all/139">Kjeldoran Outpost</name><set>alliances</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
+		<card><name id="4ed/364">Plains</name><set>4e</set></card>
 		<card><name id="4ed/364">Plains</name><set>4e</set></card>
 		<card><name id="4ed/364">Plains</name><set>4e</set></card>
 		<card><name id="4ed/364">Plains</name><set>4e</set></card>
